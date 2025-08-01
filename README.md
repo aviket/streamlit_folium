@@ -78,6 +78,9 @@ Connect your GitHub repo and deploy the app.
 
 Access your hosted app via a public URL.
 
+App in this repo is hosted at:
+https://appfolium-be5fjfabcwvyqpmgqje9rv.streamlit.app/
+
 ## 📜 Credits
 
 All GeoJSON files used in this project are credited to:
