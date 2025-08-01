@@ -10,11 +10,6 @@ This project combines three powerful Python libraries:
 - GeoPandas → An extension of pandas designed to handle geospatial data, such as shapefiles and GeoJSON files.
 - Folium → A Python wrapper for Leaflet.js to create interactive maps easily.
 
-**Streamlit** → A framework to turn Python scripts into interactive web apps quickly, without any frontend coding.
-
-**GeoPandas** → An extension of pandas designed to handle **geospatial data**, such as shapefiles and GeoJSON files.
-
-**Folium** → A Python wrapper for Leaflet.js to create **interactive maps** easily.
 
 ## 📂 Features
 
@@ -23,13 +18,6 @@ This project combines three powerful Python libraries:
 - Load and display corresponding GeoJSON boundaries (if available).
 - Marker popup tooltip for quick identification.
 
-Choose a city from the sidebar.
-
-View its location on an interactive map.
-
-Load and display corresponding **GeoJSON boundaries** (if available).
-
-Marker popup tooltip for quick identification.
 
 ## 🛠️ How to Run This App Locally
 
@@ -70,13 +58,6 @@ The app will start and you can open it in your browser (usually at http://localh
 3. Connect your GitHub repo and deploy the app.
 4. Access your hosted app via a public URL.
 
-Push this repository to GitHub.
-
-Go to [https://share.streamlit.io](null).
-
-Connect your GitHub repo and deploy the app.
-
-Access your hosted app via a public URL.
 
 App in this repo is hosted at:
 https://appfolium-be5fjfabcwvyqpmgqje9rv.streamlit.app/
