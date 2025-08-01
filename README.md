@@ -36,8 +36,8 @@ Marker popup tooltip for quick identification.
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/aviket/streamlit_folium.git
+cd streamlit_folium
 ```
 
 ### 2️⃣ Create a Virtual Environment (Optional but Recommended)
